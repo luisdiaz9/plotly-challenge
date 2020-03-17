@@ -24,7 +24,7 @@ Inside the local git repository, create a directory for the Plotly challenge.<br
 Use the folder name to correspond to the challenge: Belly_Button_Diversity.<br>
 This is a full stack app so add the html, js, css, python and sqlite files.<br>
 
-Step 1 - Plotly.js<br>
+## Step 1 - Plotly.js<br>
 Use Plotly.js to build interactive charts for your dashboard.<br>
 Create a PIE chart that uses data from your samples route (/samples/<sample>) to display the top 10 samples.<br>
 Use sample_values as the values for the PIE chart.<br>
@@ -43,7 +43,7 @@ Display each key/value pair from the metadata JSON object somewhere on the page.
 Update all of the plots any time that a new sample is selected.<br>
 Create any layout for the dashboard.<br>
 
-Step 2 - Heroku<br>
+## Step 2 - Heroku<br>
 Deploy your Flask app to Heroku.<br>
 Use the provided sqlite file for the database.<br>
 Optional Challenge<br>
@@ -51,9 +51,7 @@ Adapt the Gauge Chart from https://plot.ly/javascript/gauge-charts/ to plot the 
 Modify the example gauge code to show the top ten values ranging from 0 - 9.<br>
 Update the chart whenever a new sample is selected.<br>
 
-Flask API<br>
+* Flask API<br>
 Use Flask API starter code to serve the data needed for your plots.<br>
 Test your routes by visiting each one in the browser.<br>
-
 Pip install -r requirements.txt before starting the server.<br>
-
