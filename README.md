@@ -24,7 +24,7 @@ Inside the local git repository, create a directory for the Plotly challenge.<br
 Use the folder name to correspond to the challenge: Belly_Button_Diversity.<br>
 This is a full stack app so add the html, js, css, python and sqlite files.<br>
 
-Step 1 - Plotly.js
+Step 1 - Plotly.js<br>
 Use Plotly.js to build interactive charts for your dashboard.<br>
 Create a PIE chart that uses data from your samples route (/samples/<sample>) to display the top 10 samples.<br>
 Use sample_values as the values for the PIE chart.<br>
