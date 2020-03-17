@@ -55,5 +55,5 @@ Flask API
 Use Flask API starter code to serve the data needed for your plots.
 Test your routes by visiting each one in the browser.
 
-Pip install -r requirements.txt before you start the server.
+Pip install -r requirements.txt before starting the server.
 
