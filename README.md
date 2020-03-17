@@ -9,7 +9,7 @@ In order to run the code, it is required:<br>
 Pie.JPG<br>
 ![Pie](Pie.JPG)<br><br>
 GaugeGraph.JPG<br>
-![GaugeGraphs](GaugeGraphs.JPG)<br><br>
+![GaugeGraph](GaugeGraph.JPG)<br><br>
 Bubble.JPG<br>
 ![Bubble](Bubble.JPG)<br><br>
 ### Explanations<br>
